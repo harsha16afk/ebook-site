@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>1CR Empire in 200 Days</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #0f172a;
+      color: #f1f5f9;
+    }
+    header, section, footer {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .hero {
+      text-align: center;
+      padding: 4rem 2rem;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    .hero img {
+      max-width: 200px;
+      margin-bottom: 1rem;
+      border-radius: 12px;
+    }
+    .button {
+      display: inline-block;
+      padding: 1rem 2rem;
+      margin: 0.5rem;
+      border: none;
+      background: #3b82f6;
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background 0.3s;
+    }
+    .button:hover {
+      background: #2563eb;
+    }
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #facc15;
+    }
+    .features li {
+      margin: 0.5rem 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <img src="ebook-cover.jpg" alt="1CR Empire eBook Cover" />
+    <h1>1CR Empire in 200 Days</h1>
+    <p>Your ultimate guide to building a 7-figure digital business.</p>
+    <a href="#payment" class="button">Buy Now</a>
+  </header>
+
+  <section>
+    <h2 class="section-title">What You'll Learn</h2>
+    <ul class="features">
+      <li>📈 Step-by-step blueprint to earn ₹1CR in 200 days</li>
+      <li>💰 Secrets of building passive income streams</li>
+      <li>🚀 Digital marketing, sales, and business hacks</li>
+      <li>🛠️ Tools and systems used by top earners</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Why This eBook?</h2>
+    <p>
+      Written for ambitious dreamers, this eBook helps you skip years of trial and error. Whether you're a student,
+      creator, or side hustler — this guide will fast-track your journey.
+    </p>
+  </section>
+
+  <section>
+    <h2 class="section-title">Meet the Author</h2>
+    <p>
+      Crafted by a digital entrepreneur who turned ₹0 into a 7-figure empire. This guide is your roadmap to real success — practical, raw, and powerful.
+    </p>
+  </section>
+
+  <section id="payment">
+    <h2 class="section-title">Buy the eBook</h2>
+    <p>Instant download after purchase. Only ₹99!</p>
+    <a href="https://rzp.io/l/YOUR_RAZORPAY_LINK" class="button">Buy with Razorpay</a>
+    <a href="https://paypal.me/YOUR_PAYPAL_LINK" class="button">Buy with PayPal</a>
+  </section>
+
+  <section>
+    <h2 class="section-title">FAQs</h2>
+    <p><strong>Q: Is this suitable for beginners?</strong><br> A: Absolutely. No prior experience needed.</p>
+    <p><strong>Q: When will I receive the eBook?</strong><br> A: Immediately after payment.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 1CR Empire. All rights reserved. | Contact: your@email.com
+  </footer>
+</body>
+</html>
