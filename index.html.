@@ -96,7 +96,7 @@
   <section id="payment">
     <h2 class="section-title">Buy the eBook</h2>
     <p>Instant download after purchase. Only ₹99!</p>
-    <a href="https://rzp.io/l/YOUR_RAZORPAY_LINK" class="button">Buy with Razorpay</a>
+    <a href="https://razorpay.me/@ramadeb" class="button">Buy with Razorpay</a>
     <a href="https://paypal.me/YOUR_PAYPAL_LINK" class="button">Buy with PayPal</a>
   </section>
 
